@@ -1,0 +1,13 @@
+{
+    "chatgpt": {
+        "auth_base_url": "https://auth.openai.com",
+        "chat_base_url": "https://chatgpt.com",
+        "chat_web_client_id": "app_X8zY6vW2pQ9tR3dE7nK1jL5gH",
+        "user_agent_chrome": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    },
+    "http": {
+        "proxy": {
+            "default": "http://127.0.0.1:7897"
+        }
+    }
+}

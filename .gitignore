@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Playwright
+driver/
+
+# 日志和缓存
+*.log
+sentinel_cache.json
+
+# 运行产物
+codex/
+outlook_oauth2.json
+free.zip
+
+# macOS
+.DS_Store
