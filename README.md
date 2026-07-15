@@ -177,13 +177,8 @@ free/
 - **Outlook 令牌**：需要有效的 refresh_token，可通过 Token 生成模式获取
 - **并发线程**：建议根据网络和代理情况设置，过高可能导致注册失败率上升
 
----
+## 致谢
 
 感谢真诚、友善、团结、专业的 [LinuxDo](https://linux.do/) 社区，让我学到很多开发和 AI 相关的知识和玩法。
 
 [LinuxDo](https://linux.do/) - 学 AI，上 L 站。
-
-## 致谢
-感谢真诚、友善、团结、专业的 LinuxDo 社区，让我学到很多开发和 AI 相关的知识和玩法。
-
-LinuxDo - 学 AI，上 L 站。
